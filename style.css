@@ -120,11 +120,9 @@ nav button {
 
 .first {
     display: flex;
-    justify-content: center;
     max-width: 70vw;
     margin: auto;
     color: white;
-    justify-content: center;
     align-items: center;
 }
 .secImg {

@@ -178,9 +178,7 @@ section.first>div :nth-child(2) {
     color: red;
 }
 
-.faqbox svg {
-    filter: invert(1);
-}
+
 
 .faqbox {
     /* transition: all 1s ease-out; */
